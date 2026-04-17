@@ -1,9 +1,9 @@
 const frames = [
     themeUrl + '/assets/images/logo.png',
-    themeUrl + '/assets/images/Port Folio_2.png',
-    themeUrl + '/assets/images/Port Folio_3.png',
-    themeUrl + '/assets/images/Port Folio_4.png',
-    themeUrl + '/assets/images/Port Folio_5.png'
+    themeUrl + '/assets/images/Port-Folio_2.png',
+    themeUrl + '/assets/images/Port-Folio_3.png',
+    themeUrl + '/assets/images/Port-Folio_4.png',
+    themeUrl + '/assets/images/Port-Folio_5.png'
 ];
 
 let currentIndex = 0;
