@@ -7,7 +7,7 @@ body {
   overflow-x: hidden;
   margin: 0 0;
   padding: 0 0;
-  background-image: url("./assets/images/background.png");
+  background-image: url("./assets/images/background.PNG");
 }
 ul {
   list-style-type: none;
@@ -25,7 +25,7 @@ a {
     z-index: 9999; /* 他の要素より一番手前に表示 */
     width: 100vw;
     height: 100vh;
-    background-image: url('./assets/images/background.png'); /* パスに注意 */
+    background-image: url('./assets/images/background.PNG'); /* パスに注意 */
     background-size: cover;
     background-position: center;
     display: flex;
